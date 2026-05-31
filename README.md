@@ -171,7 +171,6 @@ class MadhumithaRaj:
 
 ✦ &nbsp; *Open to cybersecurity roles in Toronto &amp; remote* &nbsp; ✦
 
-**kannamma2511@gmail.com** &nbsp;·&nbsp; **(437) 248-3674**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
