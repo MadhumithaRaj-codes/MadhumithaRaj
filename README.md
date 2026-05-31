@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Master%27s+Candidate+in+IT+Security+(UOIT%2C+2026);PKI+%7C+TLS%2FSSL+%7C+X.509+%7C+CA+Trust+Hierarchies;IAM+%7C+Incident+Response+%7C+SIEM+(Splunk);Compliance%3A+NIST+%7C+PCI-DSS+%7C+SOC2)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/MadhumithaRaj](https://www.linkedin.com/in/madhumitha-raj-629941211/))
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/MadhumithaRaj](https://github.com/MadhumithaRaj-codes/MadhumithaRaj/blob/main/README.md))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumitha-raj-629941211/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhumithaRaj-codes/MadhumithaRaj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kannamma2511@gmail.com)
 [![Location](https://img.shields.io/badge/Toronto%2C%20Ontario-0A9396?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -155,13 +155,13 @@ class MadhumithaRaj:
 
 <div align="center">
 
-![Madhumitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhumithaRaj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9)
+![Madhumitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhumithaRaj-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhumithaRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhumithaRaj-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MadhumithaRaj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58a6ff&fire=BF91F3&currStreakLabel=58a6ff&sideLabels=38BDAE&dates=8B949E&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MadhumithaRaj-codes&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58a6ff&fire=BF91F3&currStreakLabel=58a6ff&sideLabels=38BDAE&dates=8B949E&border_radius=10)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhumithaRaj&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MadhumithaRaj)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhumithaRaj-codes&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MadhumithaRaj-codes/MadhumithaRaj)
 
 </div>
 
