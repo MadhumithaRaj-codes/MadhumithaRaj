@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Master%27s+Candidate+in+IT+Security+(UOIT%2C+2026);PKI+%7C+TLS%2FSSL+%7C+X.509+%7C+CA+Trust+Hierarchies;IAM+%7C+Incident+Response+%7C+SIEM+(Splunk);Compliance%3A+NIST+%7C+PCI-DSS+%7C+SOC2)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MadhumithaRaj)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhumithaRaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/MadhumithaRaj](https://www.linkedin.com/in/madhumitha-raj-629941211/))
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/MadhumithaRaj](https://github.com/MadhumithaRaj-codes/MadhumithaRaj/blob/main/README.md))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kannamma2511@gmail.com)
 [![Location](https://img.shields.io/badge/Toronto%2C%20Ontario-0A9396?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
